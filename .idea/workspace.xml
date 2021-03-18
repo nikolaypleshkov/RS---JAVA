@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cfe7fe3-e3f1-4922-8208-6db730ac2889" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AirlineSystemDesktop/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AirlineSystemDesktop/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/demo/main/SendEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/demo/main/SendEmail$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/demo/main/SendEmail.class" beforeDir="false" />
-    </list>
+    <list default="true" id="7cfe7fe3-e3f1-4922-8208-6db730ac2889" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +32,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616086774863</updated>
       <workItem from="1616086776876" duration="10000" />
+      <workItem from="1616102003951" duration="124000" />
     </task>
     <servers />
   </component>
